@@ -1,0 +1,132 @@
+.blocks {
+    position: relative;
+    /* position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0; */
+}
+.big-block {
+    /* position: relative; */
+    height: 600px;
+    /* width: 100%; */
+    border: 15px solid rgb(137, 184, 190);
+  }
+  .sm-block1 {
+    position: absolute;
+    top: -65px;
+    left: 15px;
+    width: 1px;
+    height: 1px;
+    padding: 80px;
+    margin: 80px;
+    transform: translate(-50%);
+    background-color: rgb(0, 238, 255);
+  }
+
+  .sm-block2 {
+    position: absolute;
+    top: -65px;
+    right: -65px;
+    width: 1px;
+    height: 1px;
+    padding: 80px;
+    margin: 80px;
+    background-color: rgb(7, 12, 88);
+  }
+  .sm-block3 {
+    position: absolute;
+    bottom: -65px;
+    left: -65px;
+    width: 1px;
+    height: 1px;
+    padding: 80px;
+    margin: 80px;
+    background-color: rgb(7, 12, 88);
+  }
+  
+  
+  .sm-block4 {
+    position: absolute;
+    bottom: -65px;
+    right: -65px;
+    float: right;
+    flex-flow: row wrap;
+    width: 1px;
+    height: 1px;
+    padding: 80px;
+    margin: 80px;
+    background-color: rgb(0, 238, 255);
+  }
+
+  .sm-block6 {
+    position:absolute; top: 10%; right: 46%;
+    /* top: 10%;
+    right: 46%; */
+    width: 1px;
+    height: 1px;
+    padding: 80px;
+    margin: 80px;
+    background-color: rgb(148, 137, 190);
+  
+  } 
+  
+  .sm-block7 {
+    position:absolute; bottom: 16%; left: 42%;
+    /* bottom: 16%;
+    left: 42%; */
+    width: 1px;
+    height: 1px;
+    padding: 80px;
+    margin: 80px;
+    background-color: rgb(137, 184, 190);
+  }
+  
+
+  .sm-block5 {
+    position: absolute;
+    top: 20%;
+    right: 40%;
+    width: 1px;
+    height: 1px;
+    padding: 80px;
+    margin: 80px;
+    background-color: rgb(219, 144, 46);
+  }
+
+  /* .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    gap: 10px;
+    background-color: #ffffff;
+    padding: 80px;
+  }
+  
+  .grid-container > div {
+    padding: 80px;
+    margin: 80px;
+
+  }
+  .item7 {
+    position: absolute;
+    right: 42%;
+    top: 40px;
+    background-color:  rgb(137, 184, 190);
+  }
+  .item6 {
+    position: absolute;
+    left: 40%;
+    top: 20%;
+    background-color: rgb(219, 144, 46);
+  }
+ 
+  .item5 {
+    position: absolute;
+    right: 30%;
+    top: 32%;
+    background-color:  rgb(137, 184, 190);
+  } */
+
+ 
+
+  
